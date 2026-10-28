@@ -1,0 +1,1998 @@
+{
+  "versao": "1.0.0",
+  "data_editorial": "2026-10-28",
+  "recursos": [
+    {
+      "id": "SOC-001",
+      "nome": "A-poc / BlueTeam-Tools",
+      "tipo": "agregador",
+      "tags": [
+        "blue_team",
+        "ferramentas",
+        "hunting",
+        "resposta_incidentes",
+        "dfir"
+      ],
+      "fontes": [
+        "https://github.com/A-poc/BlueTeam-Tools"
+      ],
+      "finalidade": "Reunir ferramentas e técnicas para monitoramento, hunting, inteligência, resposta a incidentes, malware e forense.",
+      "aplicacao": "Encontrar ferramentas conforme a atividade e ampliar o catálogo interno do SOC.",
+      "observacoes": "A coleção inclui recursos com diferentes condições de acesso e licenciamento.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/A-poc/BlueTeam-Tools",
+          "http": 200,
+          "url_final": "https://github.com/A-poc/BlueTeam-Tools",
+          "titulo": "GitHub - A-poc/BlueTeam-Tools: Tools and Techniques for Blue Team / Incident Response · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:32.760677+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-002",
+      "nome": "fabacab / Awesome Cybersecurity Blue Team",
+      "tipo": "agregador",
+      "tags": [
+        "blue_team",
+        "siem",
+        "edr",
+        "soar",
+        "cloud",
+        "monitoramento"
+      ],
+      "fontes": [
+        "https://github.com/fabacab/awesome-cybersecurity-blueteam"
+      ],
+      "finalidade": "Catalogar recursos defensivos, incluindo monitoramento, automação, segurança em nuvem, evidências e inteligência.",
+      "aplicacao": "Descobrir projetos e comparar alternativas para capacidades da operação.",
+      "observacoes": "A preferência do mantenedor por software livre não comprova a manutenção de cada projeto listado.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/fabacab/awesome-cybersecurity-blueteam",
+          "http": 200,
+          "url_final": "https://github.com/fabacab/awesome-cybersecurity-blueteam",
+          "titulo": "GitHub - fabacab/awesome-cybersecurity-blueteam: :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams. · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:32.686805+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-003",
+      "nome": "cyb3rxp / Awesome SOC",
+      "tipo": "base_conhecimento",
+      "tags": [
+        "soc",
+        "maturidade",
+        "processos",
+        "metricas",
+        "automacao",
+        "playbooks"
+      ],
+      "fontes": [
+        "https://github.com/cyb3rxp/awesome-soc"
+      ],
+      "finalidade": "Organizar referências para construir, operar e amadurecer um SOC.",
+      "aplicacao": "Estruturar processos, engenharia de detecção, métricas, automação e procedimentos.",
+      "observacoes": "Inclui procedimentos sobre avaliação de comprometimento de Microsoft 365 e servidores web.",
+      "origem": "documento_fornecido",
+      "categoria": "operacao",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/cyb3rxp/awesome-soc",
+          "http": 200,
+          "url_final": "https://github.com/cyb3rxp/awesome-soc",
+          "titulo": "GitHub - cyb3rxp/awesome-soc: A curated knowledge base to build, run and mature a SOC (including CSIRT). · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:32.833516+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-004",
+      "nome": "iw-sec / Awesome SOC Tools",
+      "tipo": "agregador",
+      "tags": [
+        "triagem",
+        "ioc",
+        "enriquecimento",
+        "cti",
+        "ferramentas_online"
+      ],
+      "fontes": [
+        "https://github.com/iw-sec/awesome-soc-tools"
+      ],
+      "finalidade": "Reunir ferramentas de inteligência e enriquecimento para triagem de indicadores.",
+      "aplicacao": "Montar favoritos e selecionar fontes de consulta para IPs, domínios, URLs e hashes.",
+      "observacoes": "O catálogo identifica serviços que exigem conta para funcionalidades relevantes.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/iw-sec/awesome-soc-tools",
+          "http": 200,
+          "url_final": "https://github.com/iw-sec/awesome-soc-tools",
+          "titulo": "GitHub - iw-sec/awesome-soc-tools: A collection of free threat intelligence and enrichment tools for SOC triage · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:32.834982+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-005",
+      "nome": "LetsDefend / Awesome SOC Analyst",
+      "tipo": "agregador",
+      "tags": [
+        "onboarding",
+        "phishing",
+        "malware",
+        "logs",
+        "treinamento"
+      ],
+      "fontes": [
+        "https://github.com/LetsDefend/awesome-soc-analyst"
+      ],
+      "finalidade": "Reunir ferramentas, laboratórios, livros e referências de investigação e fontes de logs.",
+      "aplicacao": "Construir trilhas para analistas e apoiar consultas sobre phishing, malware e eventos.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/LetsDefend/awesome-soc-analyst",
+          "http": 200,
+          "url_final": "https://github.com/LetsDefend/awesome-soc-analyst",
+          "titulo": "GitHub - LetsDefend/awesome-soc-analyst: Useful resources for SOC Analyst and SOC Analyst candidates. · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:34.294373+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-006",
+      "nome": "st0pp3r / Awesome SOC Analyst",
+      "tipo": "agregador",
+      "tags": [
+        "investigacao",
+        "favoritos",
+        "blogs",
+        "logs",
+        "treinamento"
+      ],
+      "fontes": [
+        "https://github.com/st0pp3r/awesome-soc-analyst"
+      ],
+      "finalidade": "Organizar referências, ferramentas online, publicações e materiais relacionados ao trabalho do analista SOC.",
+      "aplicacao": "Padronizar favoritos e fontes de consulta da equipe.",
+      "observacoes": "O projeto disponibiliza um arquivo de favoritos para importação no navegador.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/st0pp3r/awesome-soc-analyst",
+          "http": 200,
+          "url_final": "https://github.com/st0pp3r/awesome-soc-analyst",
+          "titulo": "GitHub - st0pp3r/awesome-soc-analyst: Online resources related to SOC Analysts. Incident investigation reference material, blogs, newsletters, good reads, books, trainings, podcasts, Twitter/X accounts and a set of tools relevant to the role of SOC analyst. · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:32.649388+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-007",
+      "nome": "mthcht / Awesome Lists",
+      "tipo": "listas_referencia",
+      "tags": [
+        "hunting",
+        "deteccao",
+        "lookup",
+        "artefatos",
+        "windows",
+        "cti"
+      ],
+      "fontes": [
+        "https://github.com/mthcht/awesome-lists"
+      ],
+      "finalidade": "Reunir listas de serviços, tarefas, named pipes, user agents, certificados, aplicações e outros artefatos.",
+      "aplicacao": "Apoiar lookups, enriquecimento, consultas e hipóteses de hunting.",
+      "observacoes": "Uma correspondência precisa de contexto; as listas não devem ser interpretadas uniformemente como blocklists.",
+      "origem": "documento_fornecido",
+      "categoria": "hunting",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/mthcht/awesome-lists",
+          "http": 200,
+          "url_final": "https://github.com/mthcht/awesome-lists",
+          "titulo": "GitHub - mthcht/awesome-lists: Awesome Security lists for SOC/CERT/CTI · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:32.847203+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-008",
+      "nome": "hslatman / Awesome Threat Intelligence",
+      "tipo": "agregador",
+      "tags": [
+        "cti",
+        "feeds",
+        "api",
+        "enriquecimento",
+        "plataformas"
+      ],
+      "fontes": [
+        "https://github.com/hslatman/awesome-threat-intelligence"
+      ],
+      "finalidade": "Catalogar fontes, feeds, APIs, formatos, plataformas e referências de inteligência de ameaças.",
+      "aplicacao": "Selecionar fontes de CTI e planejar integrações de enriquecimento.",
+      "observacoes": "Indicadores precisam de análise contextual para apoiar decisões.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/hslatman/awesome-threat-intelligence",
+          "http": 200,
+          "url_final": "https://github.com/hslatman/awesome-threat-intelligence",
+          "titulo": "GitHub - hslatman/awesome-threat-intelligence: A curated list of Awesome Threat Intelligence resources · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:32.761329+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-009",
+      "nome": "meirwah / Awesome Incident Response",
+      "tipo": "agregador",
+      "tags": [
+        "resposta_incidentes",
+        "dfir",
+        "evidencias",
+        "memoria",
+        "timeline"
+      ],
+      "fontes": [
+        "https://github.com/meirwah/awesome-incident-response"
+      ],
+      "finalidade": "Reunir ferramentas e referências de coleta, análise de logs e memória, timelines, gestão e resposta.",
+      "aplicacao": "Selecionar recursos conforme a etapa da investigação.",
+      "observacoes": "O catálogo deve ser combinado com um procedimento adequado ao incidente.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/meirwah/awesome-incident-response",
+          "http": 200,
+          "url_final": "https://github.com/meirwah/awesome-incident-response",
+          "titulo": "GitHub - meirwah/awesome-incident-response: A curated list of tools for incident response · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:32.689092+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-010",
+      "nome": "0x4D31 / Awesome Threat Detection and Hunting",
+      "tipo": "agregador",
+      "tags": [
+        "deteccao",
+        "hunting",
+        "datasets",
+        "telemetria",
+        "laboratorios"
+      ],
+      "fontes": [
+        "https://github.com/0x4D31/awesome-threat-detection"
+      ],
+      "finalidade": "Reunir ferramentas, regras, datasets, pesquisas, frameworks e laboratórios de detecção e hunting.",
+      "aplicacao": "Encontrar referências para desenvolver casos de uso e identificar telemetria necessária.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/0x4D31/awesome-threat-detection",
+          "http": 200,
+          "url_final": "https://github.com/0x4D31/awesome-threat-detection",
+          "titulo": "GitHub - 0x4D31/awesome-threat-detection: ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️ · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:32.718621+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-011",
+      "nome": "cugu / Awesome Forensics",
+      "tipo": "agregador",
+      "tags": [
+        "forense",
+        "dfir",
+        "aquisicao",
+        "memoria",
+        "artefatos",
+        "timeline"
+      ],
+      "fontes": [
+        "https://github.com/cugu/awesome-forensics"
+      ],
+      "finalidade": "Catalogar ferramentas e recursos de análise forense por especialidade.",
+      "aplicacao": "Selecionar ferramentas para coleta, análise de artefatos e preparação de uma estação DFIR.",
+      "observacoes": "As marcações de manutenção e recomendação refletem os critérios do mantenedor.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/cugu/awesome-forensics",
+          "http": 200,
+          "url_final": "https://github.com/cugu/awesome-forensics",
+          "titulo": "GitHub - cugu/awesome-forensics: ⭐️ A curated list of awesome forensic analysis tools and resources · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:33.336580+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-012",
+      "nome": "SigmaHQ / Sigma",
+      "tipo": "regras_consultas",
+      "tags": [
+        "sigma",
+        "deteccao",
+        "hunting",
+        "siem",
+        "regras"
+      ],
+      "fontes": [
+        "https://github.com/SigmaHQ/sigma"
+      ],
+      "finalidade": "Disponibilizar regras Sigma para detecção e hunting.",
+      "aplicacao": "Desenvolver e adaptar lógicas de detecção e comparar cobertura.",
+      "observacoes": "Conversão e execução dependem do backend, dos campos e das fontes de logs.",
+      "origem": "documento_fornecido",
+      "categoria": "deteccao",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/SigmaHQ/sigma",
+          "http": 200,
+          "url_final": "https://github.com/SigmaHQ/sigma",
+          "titulo": "GitHub - SigmaHQ/sigma: Main Sigma Rule Repository · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:33.318089+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-013",
+      "nome": "Microsoft Sentinel e Defender / Azure-Sentinel",
+      "tipo": "regras_consultas",
+      "tags": [
+        "microsoft",
+        "sentinel",
+        "defender",
+        "kql",
+        "playbooks",
+        "workbooks"
+      ],
+      "fontes": [
+        "https://github.com/Azure/Azure-Sentinel"
+      ],
+      "finalidade": "Reunir detecções, consultas, hunting, workbooks, playbooks, parsers e conectores.",
+      "aplicacao": "Apoiar operações com Sentinel e Defender e desenvolver conteúdo compatível com o ambiente.",
+      "observacoes": "Confirmar tabelas, conectores e diferenças de esquema entre os produtos.",
+      "origem": "documento_fornecido",
+      "categoria": "deteccao",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/Azure/Azure-Sentinel",
+          "http": 200,
+          "url_final": "https://github.com/Azure/Azure-Sentinel",
+          "titulo": "GitHub - Azure/Azure-Sentinel: Cloud-native SIEM for intelligent security analytics for your entire enterprise. · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:33.373849+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-014",
+      "nome": "Splunk Security Content",
+      "tipo": "regras_consultas",
+      "tags": [
+        "splunk",
+        "spl",
+        "deteccao",
+        "analytic_stories",
+        "playbooks"
+      ],
+      "fontes": [
+        "https://github.com/splunk/security_content",
+        "https://research.splunk.com/"
+      ],
+      "finalidade": "Disponibilizar detecções, Analytic Stories, contexto de TTPs e conteúdo de investigação.",
+      "aplicacao": "Criar e revisar casos de uso no Splunk.",
+      "observacoes": "Verificar fontes de dados, campos, macros, lookups e demais dependências da detecção.",
+      "origem": "documento_fornecido",
+      "categoria": "deteccao",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/splunk/security_content",
+          "http": 200,
+          "url_final": "https://github.com/splunk/security_content",
+          "titulo": "GitHub - splunk/security_content: Splunk Security Content · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:33.464273+00:00"
+        },
+        {
+          "url": "https://research.splunk.com/",
+          "http": 200,
+          "url_final": "https://research.splunk.com/",
+          "titulo": "Splunk Security Content",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:33.835315+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-015",
+      "nome": "Elastic / Detection Rules",
+      "tipo": "regras_consultas",
+      "tags": [
+        "elastic",
+        "deteccao",
+        "hunting",
+        "deteccao_como_codigo"
+      ],
+      "fontes": [
+        "https://github.com/elastic/detection-rules"
+      ],
+      "finalidade": "Manter regras do Elastic Security e recursos de desenvolvimento, teste e validação.",
+      "aplicacao": "Desenvolver casos de uso e organizar o ciclo de vida de detecções.",
+      "observacoes": "Confirmar compatibilidade de versão, esquema e disponibilidade do conteúdo.",
+      "origem": "documento_fornecido",
+      "categoria": "deteccao",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/elastic/detection-rules",
+          "http": 200,
+          "url_final": "https://github.com/elastic/detection-rules",
+          "titulo": "GitHub - elastic/detection-rules · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:33.441008+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-016",
+      "nome": "LOLBAS",
+      "tipo": "catalogo_tecnico",
+      "tags": [
+        "windows",
+        "lolbins",
+        "processos",
+        "hunting",
+        "attack"
+      ],
+      "fontes": [
+        "https://lolbas-project.github.io/"
+      ],
+      "finalidade": "Catalogar binários, scripts e bibliotecas Windows que podem ser utilizados de forma abusiva.",
+      "aplicacao": "Contextualizar processos e comandos suspeitos e apoiar hunting.",
+      "observacoes": "A existência ou execução de um item listado não comprova uso malicioso.",
+      "origem": "documento_fornecido",
+      "categoria": "hunting",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://lolbas-project.github.io/",
+          "http": 200,
+          "url_final": "https://lolbas-project.github.io/",
+          "titulo": "LOLBAS",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:33.325482+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-017",
+      "nome": "GTFOBins",
+      "tipo": "catalogo_tecnico",
+      "tags": [
+        "linux",
+        "unix",
+        "sudo",
+        "suid",
+        "capabilities"
+      ],
+      "fontes": [
+        "https://gtfobins.org/"
+      ],
+      "finalidade": "Documentar funcionalidades de executáveis Unix/Linux que podem ser abusadas em sistemas mal configurados.",
+      "aplicacao": "Investigar atividades relacionadas a permissões e uso suspeito de executáveis.",
+      "observacoes": "O catálogo não é uma lista de programas necessariamente vulneráveis.",
+      "origem": "documento_fornecido",
+      "categoria": "hunting",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://gtfobins.org/",
+          "http": 200,
+          "url_final": "https://gtfobins.org/",
+          "titulo": "GTFOBins",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:33.410509+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-018",
+      "nome": "LOLDrivers",
+      "tipo": "catalogo_tecnico",
+      "tags": [
+        "windows",
+        "drivers",
+        "byovd",
+        "hashes",
+        "deteccao"
+      ],
+      "fontes": [
+        "https://www.loldrivers.io/"
+      ],
+      "finalidade": "Catalogar drivers Windows vulneráveis ou maliciosos, hashes, evidências e recursos de detecção.",
+      "aplicacao": "Investigar carregamento de drivers e possíveis cenários de BYOVD.",
+      "observacoes": "Diferenciar vulnerabilidade, classificação maliciosa e evidência de abuso no ambiente.",
+      "origem": "documento_fornecido",
+      "categoria": "hunting",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://www.loldrivers.io/",
+          "http": 200,
+          "url_final": "https://www.loldrivers.io/",
+          "titulo": "LOLDrivers — Living Off The Land Drivers",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:33.606301+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-019",
+      "nome": "LOLRMM",
+      "tipo": "catalogo_tecnico",
+      "tags": [
+        "rmm",
+        "acesso_remoto",
+        "executaveis",
+        "dominios",
+        "hunting"
+      ],
+      "fontes": [
+        "https://lolrmm.io/"
+      ],
+      "finalidade": "Catalogar ferramentas de gerenciamento e acesso remoto e seus artefatos.",
+      "aplicacao": "Identificar acesso remoto não autorizado e investigar possível abuso de RMM.",
+      "observacoes": "Confrontar os achados com inventário, instalação, responsável e uso permitido.",
+      "origem": "documento_fornecido",
+      "categoria": "hunting",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://lolrmm.io/",
+          "http": 200,
+          "url_final": "https://lolrmm.io/",
+          "titulo": "LOLRMM — Living Off the Land Remote Monitoring and Management",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:34.475331+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-020",
+      "nome": "DFIR.Training / DFIR Tools",
+      "tipo": "diretorio_ferramentas",
+      "tags": [
+        "dfir",
+        "ferramentas",
+        "aquisicao",
+        "triagem",
+        "artefatos"
+      ],
+      "fontes": [
+        "https://www.dfir.training/dfir-tools"
+      ],
+      "finalidade": "Organizar ferramentas forenses por finalidade, tipo e desenvolvedor.",
+      "aplicacao": "Encontrar ferramentas para uma necessidade específica de coleta ou análise.",
+      "observacoes": "A consulta pública ao diretório não implica gratuidade de todos os produtos listados.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://www.dfir.training/dfir-tools",
+          "http": 200,
+          "url_final": "https://www.dfir.training/dfir-tools",
+          "titulo": "DFIR Tools",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.122384+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-021",
+      "nome": "NIST / Computer Forensics Tools & Techniques Catalog",
+      "tipo": "diretorio_ferramentas",
+      "tags": [
+        "forense",
+        "catalogo",
+        "aquisicao",
+        "recuperacao",
+        "comparacao"
+      ],
+      "fontes": [
+        "https://toolcatalog.nist.gov/"
+      ],
+      "finalidade": "Permitir pesquisa de ferramentas e técnicas forenses por função e parâmetros técnicos.",
+      "aplicacao": "Comparar alternativas de acordo com os requisitos da investigação.",
+      "observacoes": "O NIST informa que a presença no catálogo não implica teste do produto.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://toolcatalog.nist.gov/",
+          "http": 200,
+          "url_final": "https://toolcatalog.nist.gov/",
+          "titulo": "Computer Forensics Tools & Techniques Catalog - Home",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:34.479812+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-022",
+      "nome": "OSINT Framework",
+      "tipo": "diretorio_fontes",
+      "tags": [
+        "osint",
+        "investigacao",
+        "enriquecimento",
+        "ferramentas"
+      ],
+      "fontes": [
+        "https://osintframework.com/"
+      ],
+      "finalidade": "Organizar ferramentas e fontes de investigação em fontes abertas.",
+      "aplicacao": "Encontrar fontes complementares para investigação e enriquecimento.",
+      "observacoes": "Alguns recursos exigem cadastro ou cobram por funcionalidades adicionais.",
+      "origem": "documento_fornecido",
+      "categoria": "descoberta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://osintframework.com/",
+          "http": 200,
+          "url_final": "https://osintframework.com/",
+          "titulo": "OSINT Framework",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:33.948996+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-023",
+      "nome": "SANS / Posters & Cheat Sheets",
+      "tipo": "base_conhecimento",
+      "tags": [
+        "cheat_sheets",
+        "dfir",
+        "defesa",
+        "cloud",
+        "treinamento"
+      ],
+      "fontes": [
+        "https://www.sans.org/posters"
+      ],
+      "finalidade": "Reunir referências rápidas sobre segurança, defesa, forense e resposta.",
+      "aplicacao": "Organizar materiais de consulta para a wiki e a capacitação do SOC.",
+      "origem": "documento_fornecido",
+      "categoria": "treinamento",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://www.sans.org/posters",
+          "http": 200,
+          "url_final": "https://www.sans.org/posters",
+          "titulo": "Cybersecurity Posters and Cheat Sheets | SANS Institute",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:35.037888+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-024",
+      "nome": "Ultimate Windows Security / Security Log Encyclopedia",
+      "tipo": "base_conhecimento",
+      "tags": [
+        "windows",
+        "event_ids",
+        "logs",
+        "sysmon",
+        "investigacao"
+      ],
+      "fontes": [
+        "https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/"
+      ],
+      "finalidade": "Documentar eventos de segurança Windows e disponibilizar referências de outras fontes.",
+      "aplicacao": "Consultar Event IDs e apoiar a interpretação de eventos durante investigações.",
+      "observacoes": "É uma referência independente; não deve ser apresentada como documentação oficial da Microsoft.",
+      "origem": "documento_fornecido",
+      "categoria": "endpoint",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/",
+          "http": 200,
+          "url_final": "https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/",
+          "titulo": "Windows Security Log Encyclopedia",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:35.468842+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-025",
+      "nome": "MITRE ATT&CK",
+      "tipo": "base_conhecimento",
+      "tags": [
+        "attack",
+        "ttps",
+        "hunting",
+        "deteccao",
+        "cobertura"
+      ],
+      "fontes": [
+        "https://attack.mitre.org/"
+      ],
+      "finalidade": "Organizar conhecimento sobre táticas e técnicas adversárias e referências relacionadas.",
+      "aplicacao": "Mapear comportamentos, estruturar hipóteses de hunting e analisar cobertura.",
+      "observacoes": "Mapeamento para uma técnica não demonstra, isoladamente, eficácia da detecção.",
+      "origem": "documento_fornecido",
+      "categoria": "cti",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://attack.mitre.org/",
+          "http": null,
+          "resultado": "revisao_manual",
+          "erro": "TimeoutError",
+          "consultado_em": "2026-10-28T14:49:52.170092+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-026",
+      "nome": "Malpedia / Fraunhofer FKIE",
+      "tipo": "base_conhecimento",
+      "tags": [
+        "malware",
+        "familias",
+        "aliases",
+        "pesquisa",
+        "cti"
+      ],
+      "fontes": [
+        "https://malpedia.caad.fkie.fraunhofer.de/"
+      ],
+      "finalidade": "Apoiar identificação e contextualização de famílias de malware.",
+      "aplicacao": "Pesquisar aliases, referências e contexto para investigação e hunting.",
+      "observacoes": "Parte dos dados, incluindo amostras e regras não públicas, depende de acesso por convite.",
+      "origem": "documento_fornecido",
+      "categoria": "cti",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://malpedia.caad.fkie.fraunhofer.de/",
+          "http": 200,
+          "url_final": "https://malpedia.caad.fkie.fraunhofer.de/",
+          "titulo": "Malpedia (Fraunhofer FKIE)",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:36.492269+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-027",
+      "nome": "abuse.ch / ThreatFox, URLhaus e MalwareBazaar",
+      "tipo": "grupo_bases_cti",
+      "tags": [
+        "ioc",
+        "malware",
+        "urls",
+        "hashes",
+        "enriquecimento"
+      ],
+      "fontes": [
+        "https://threatfox.abuse.ch/",
+        "https://urlhaus.abuse.ch/",
+        "https://bazaar.abuse.ch/"
+      ],
+      "finalidade": "Reunir IOCs associados a malware, URLs de distribuição de malware e informações sobre amostras.",
+      "aplicacao": "Consultar indicadores e avaliar integrações de enriquecimento.",
+      "observacoes": "ThreatFox, URLhaus e MalwareBazaar têm escopos distintos. URLhaus não é uma base geral de todo tipo de phishing. Confirmar condições de API.",
+      "origem": "documento_fornecido",
+      "categoria": "triagem",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://threatfox.abuse.ch/",
+          "http": 200,
+          "url_final": "https://threatfox.abuse.ch/",
+          "titulo": "ThreatFox | Share Indicators Of Compromise (IOCs)",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:34.417789+00:00"
+        },
+        {
+          "url": "https://urlhaus.abuse.ch/",
+          "http": 200,
+          "url_final": "https://urlhaus.abuse.ch/",
+          "titulo": "URLhaus | Malware URL exchange",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:34.522683+00:00"
+        },
+        {
+          "url": "https://bazaar.abuse.ch/",
+          "http": 200,
+          "url_final": "https://bazaar.abuse.ch/",
+          "titulo": "MalwareBazaar | Malware sample exchange",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:34.864679+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-028",
+      "nome": "The DFIR Report / Public Reports",
+      "tipo": "relatorios",
+      "tags": [
+        "intrusoes",
+        "ttps",
+        "evidencias",
+        "hunting",
+        "resposta_incidentes"
+      ],
+      "fontes": [
+        "https://thedfirreport.com/reports/"
+      ],
+      "finalidade": "Publicar análises de intrusões reais com evidências, sequência de atividades e mapeamentos ATT&CK.",
+      "aplicacao": "Criar hipóteses de hunting, casos de uso e exercícios baseados em incidentes.",
+      "observacoes": "A coleção indicada é pública; o projeto também oferece conteúdo e serviços comerciais.",
+      "origem": "documento_fornecido",
+      "categoria": "cti",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://thedfirreport.com/reports/",
+          "http": 200,
+          "url_final": "https://thedfirreport.com/reports/",
+          "titulo": "DFIR Report | Discover Public Cyber Threat Intelligence Report",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:34.914186+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-029",
+      "nome": "CyberChef",
+      "tipo": "ferramenta",
+      "tags": [
+        "decodificacao",
+        "parsing",
+        "hashes",
+        "transformacao_dados",
+        "artefatos"
+      ],
+      "fontes": [
+        "https://gchq.github.io/CyberChef/",
+        "https://github.com/gchq/CyberChef"
+      ],
+      "finalidade": "Combinar operações de codificação, decodificação, compressão, hashes e transformação de dados.",
+      "aplicacao": "Tratar strings, logs e artefatos por meio de receitas reproduzíveis.",
+      "observacoes": "O projeto documenta execução local. Registrar a receita quando ela for parte relevante da análise.",
+      "origem": "documento_fornecido",
+      "categoria": "triagem",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://gchq.github.io/CyberChef/",
+          "http": 200,
+          "url_final": "https://gchq.github.io/CyberChef/",
+          "titulo": "CyberChef",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:34.949053+00:00"
+        },
+        {
+          "url": "https://github.com/gchq/CyberChef",
+          "http": 200,
+          "url_final": "https://github.com/gchq/CyberChef",
+          "titulo": "GitHub - gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:35.157561+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-030",
+      "nome": "SOC Brazil",
+      "tipo": "portal_recursos",
+      "tags": [
+        "portugues",
+        "maturidade",
+        "planejamento",
+        "dimensionamento",
+        "comunidade"
+      ],
+      "fontes": [
+        "https://socbrazil.com/"
+      ],
+      "finalidade": "Reunir conteúdo em português, avaliações de maturidade, calculadoras, relatórios e recursos da comunidade.",
+      "aplicacao": "Apoiar planejamento, dimensionamento e desenvolvimento da operação.",
+      "origem": "documento_fornecido",
+      "categoria": "operacao",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://socbrazil.com/",
+          "http": 200,
+          "url_final": "https://socbrazil.com/",
+          "titulo": "SOC Brazil | Cibersegurança, SOC e Blue Team",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:35.704050+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-031",
+      "nome": "Microsoft / Incident Response Playbooks",
+      "tipo": "playbooks",
+      "tags": [
+        "microsoft",
+        "phishing",
+        "identidade",
+        "password_spray",
+        "resposta_incidentes"
+      ],
+      "fontes": [
+        "https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks"
+      ],
+      "finalidade": "Disponibilizar procedimentos para phishing, password spray e incidentes envolvendo aplicações.",
+      "aplicacao": "Adaptar fluxos, checklists e etapas de investigação ao ambiente.",
+      "observacoes": "Conferir pré-requisitos de produtos, logs, funções e permissões de cada playbook.",
+      "origem": "documento_fornecido",
+      "categoria": "resposta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks",
+          "http": 200,
+          "url_final": "https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks",
+          "titulo": "Incident response playbooks | Microsoft Learn",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:35.285846+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-032",
+      "nome": "CERT Société Générale / Incident Response Methodologies",
+      "tipo": "playbooks",
+      "tags": [
+        "resposta_incidentes",
+        "procedimentos",
+        "checklists",
+        "cert"
+      ],
+      "fontes": [
+        "https://github.com/certsocietegenerale/IRM"
+      ],
+      "finalidade": "Reunir referências operacionais de tratamento de incidentes.",
+      "aplicacao": "Elaborar ou revisar procedimentos internos de resposta.",
+      "observacoes": "O conteúdo consultado se apresenta como IRM 2022; adaptar às tecnologias e responsabilidades atuais.",
+      "origem": "documento_fornecido",
+      "categoria": "resposta",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/certsocietegenerale/IRM",
+          "http": 200,
+          "url_final": "https://github.com/certsocietegenerale/IRM",
+          "titulo": "GitHub - certsocietegenerale/IRM: Incident Response Methodologies 2022 · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:35.540054+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-033",
+      "nome": "OTRF / Security Datasets",
+      "tipo": "dataset",
+      "tags": [
+        "datasets",
+        "validacao",
+        "deteccao",
+        "logs",
+        "treinamento"
+      ],
+      "fontes": [
+        "https://github.com/OTRF/Security-Datasets"
+      ],
+      "finalidade": "Disponibilizar datasets de atividades benignas e maliciosas para pesquisa e análise.",
+      "aplicacao": "Testar consultas, exercitar investigações e avaliar lógicas de detecção.",
+      "observacoes": "Verificar compatibilidade de campos e contexto antes de reutilizar os dados.",
+      "origem": "documento_fornecido",
+      "categoria": "treinamento",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/OTRF/Security-Datasets",
+          "http": 200,
+          "url_final": "https://github.com/OTRF/Security-Datasets",
+          "titulo": "GitHub - OTRF/Security-Datasets: Re-play Security Events · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:35.559655+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-034",
+      "nome": "Malware Traffic Analysis",
+      "tipo": "dataset_treinamento",
+      "tags": [
+        "pcap",
+        "rede",
+        "malware",
+        "exercicios",
+        "investigacao"
+      ],
+      "fontes": [
+        "https://www.malware-traffic-analysis.net/"
+      ],
+      "finalidade": "Compartilhar PCAPs, exercícios, tutoriais e materiais relacionados a tráfego de malware.",
+      "aplicacao": "Treinar análise de tráfego, identificação de indicadores e reconstrução de atividades.",
+      "observacoes": "Distinguir capturas de tráfego, exercícios e arquivos que contenham amostras de malware.",
+      "origem": "documento_fornecido",
+      "categoria": "treinamento",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://www.malware-traffic-analysis.net/",
+          "http": 200,
+          "url_final": "https://www.malware-traffic-analysis.net/",
+          "titulo": "malware-traffic-analysis.net",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:36.018942+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-035",
+      "nome": "DFIR Diva / Training Directory",
+      "tipo": "diretorio_treinamento",
+      "tags": [
+        "treinamento",
+        "dfir",
+        "blue_team",
+        "onboarding",
+        "capacitacao"
+      ],
+      "fontes": [
+        "https://training.dfirdiva.com/"
+      ],
+      "finalidade": "Catalogar treinamentos de DFIR, blue team e áreas relacionadas.",
+      "aplicacao": "Montar trilhas conforme função, experiência e lacunas da equipe.",
+      "observacoes": "O diretório reúne ofertas gratuitas e pagas.",
+      "origem": "documento_fornecido",
+      "categoria": "treinamento",
+      "acesso": "Consultar as condições do mantenedor; cadastro, APIs e funções comerciais podem variar.",
+      "checagem_links": [
+        {
+          "url": "https://training.dfirdiva.com/",
+          "http": 200,
+          "url_final": "https://training.dfirdiva.com/",
+          "titulo": "Free and Affordable DFIR and Cybersecurity Training",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:36.276149+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-036",
+      "nome": "VirusTotal",
+      "categoria": "triagem",
+      "tipo": "servico",
+      "tags": [
+        "triagem"
+      ],
+      "fontes": [
+        "https://www.virustotal.com/"
+      ],
+      "finalidade": "Consultar reputação e contexto de hashes, domínios, IPs e URLs.",
+      "aplicacao": "Começar por consultas de hashes existentes durante a triagem.",
+      "observacoes": "Uploads e análises podem compartilhar conteúdo; consultar a política aplicável antes de enviar arquivos ou URLs internos.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://www.virustotal.com/",
+          "http": 200,
+          "url_final": "https://www.virustotal.com:443/gui/",
+          "titulo": "VirusTotal",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:35.958816+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-037",
+      "nome": "urlscan.io",
+      "categoria": "triagem",
+      "tipo": "servico",
+      "tags": [
+        "triagem"
+      ],
+      "fontes": [
+        "https://urlscan.io/"
+      ],
+      "finalidade": "Pesquisar e analisar carregamento de páginas web.",
+      "aplicacao": "Examinar redirecionamentos, requisições e infraestrutura de uma URL.",
+      "observacoes": "Verificar a visibilidade da submissão; URLs podem conter tokens ou dados pessoais.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://urlscan.io/",
+          "http": 200,
+          "url_final": "https://urlscan.io/",
+          "titulo": "URL and website scanner - urlscan.io",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:51.888640+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-038",
+      "nome": "MXToolbox — Email Header Analyzer",
+      "categoria": "triagem",
+      "tipo": "servico",
+      "tags": [
+        "triagem"
+      ],
+      "fontes": [
+        "https://mxtoolbox.com/EmailHeaders.aspx"
+      ],
+      "finalidade": "Auxiliar a leitura de cabeçalhos de mensagens.",
+      "aplicacao": "Revisar saltos de entrega e indícios de problemas de autenticação de email.",
+      "observacoes": "Cabeçalhos podem expor endereços e infraestrutura; sanitizar dados antes da submissão externa.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://mxtoolbox.com/EmailHeaders.aspx",
+          "http": 200,
+          "url_final": "https://mxtoolbox.com/EmailHeaders.aspx",
+          "titulo": "Email Header Analyzer, RFC822 Parser - MxToolbox",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:35.889123+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-039",
+      "nome": "MISP",
+      "categoria": "cti",
+      "tipo": "plataforma",
+      "tags": [
+        "cti"
+      ],
+      "fontes": [
+        "https://www.misp-project.org/"
+      ],
+      "finalidade": "Organizar e compartilhar inteligência de ameaças.",
+      "aplicacao": "Estruturar indicadores, eventos, contexto e fluxos de compartilhamento.",
+      "observacoes": "Definir taxonomias, distribuição, retenção e qualidade antes de automatizar o consumo.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://www.misp-project.org/",
+          "http": 200,
+          "url_final": "https://www.misp-project.org/",
+          "titulo": "MISP Open Source Threat Intelligence Platform & Open Standards For Threat Intelligence Sharing",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.096286+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-040",
+      "nome": "OpenCTI",
+      "categoria": "cti",
+      "tipo": "plataforma",
+      "tags": [
+        "cti"
+      ],
+      "fontes": [
+        "https://docs.opencti.io/"
+      ],
+      "finalidade": "Organizar conhecimento e relacionamentos de CTI.",
+      "aplicacao": "Conectar relatórios, entidades e contexto para apoiar investigação.",
+      "observacoes": "Conectores, feeds e implantação possuem requisitos próprios.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://docs.opencti.io/",
+          "http": 200,
+          "url_final": "https://docs.opencti.io/",
+          "titulo": "Redirecting",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:36.643971+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-041",
+      "nome": "CISA — Known Exploited Vulnerabilities",
+      "categoria": "cti",
+      "tipo": "base_conhecimento",
+      "tags": [
+        "cti"
+      ],
+      "fontes": [
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+      ],
+      "finalidade": "Catalogar vulnerabilidades conhecidas por exploração em ataques.",
+      "aplicacao": "Priorizar exposição junto com inventário, criticidade e controles existentes.",
+      "observacoes": "A ausência no catálogo não demonstra ausência de exploração; KEV não substitui gestão de vulnerabilidades.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+          "http": 403,
+          "resultado": "revisao_manual",
+          "erro": "HTTPError",
+          "consultado_em": "2026-10-28T14:49:36.270591+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-042",
+      "nome": "FIRST — EPSS",
+      "categoria": "cti",
+      "tipo": "base_conhecimento",
+      "tags": [
+        "cti"
+      ],
+      "fontes": [
+        "https://www.first.org/epss/"
+      ],
+      "finalidade": "Estimar a probabilidade de exploração de vulnerabilidades.",
+      "aplicacao": "Complementar a priorização de CVEs com exposição e contexto do ativo.",
+      "observacoes": "Probabilidade estimada não é impacto, confirmação de exploração ou garantia de ausência de risco.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://www.first.org/epss/",
+          "http": 200,
+          "url_final": "https://www.first.org/epss/",
+          "titulo": "Exploit Prediction Scoring System (EPSS)",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.011518+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-043",
+      "nome": "YARA",
+      "categoria": "deteccao",
+      "tipo": "ferramenta",
+      "tags": [
+        "deteccao"
+      ],
+      "fontes": [
+        "https://github.com/VirusTotal/yara"
+      ],
+      "finalidade": "Identificar padrões em arquivos por meio de regras.",
+      "aplicacao": "Criar e revisar assinaturas para triagem e pesquisa de malware.",
+      "observacoes": "Validar regras contra amostras positivas e negativas e revisar custo de execução.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/VirusTotal/yara",
+          "http": 200,
+          "url_final": "https://github.com/VirusTotal/yara",
+          "titulo": "GitHub - VirusTotal/yara: The pattern matching swiss knife · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:36.594822+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-044",
+      "nome": "ATT&CK Navigator",
+      "categoria": "hunting",
+      "tipo": "ferramenta",
+      "tags": [
+        "hunting"
+      ],
+      "fontes": [
+        "https://github.com/mitre-attack/attack-navigator"
+      ],
+      "finalidade": "Visualizar camadas de técnicas ATT&CK.",
+      "aplicacao": "Documentar hipóteses, prioridades e cobertura apoiada por evidências.",
+      "observacoes": "Uma técnica colorida não comprova cobertura; registrar dados e validações associados.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/mitre-attack/attack-navigator",
+          "http": 200,
+          "url_final": "https://github.com/mitre-attack/attack-navigator",
+          "titulo": "GitHub - mitre-attack/attack-navigator: Web app that provides basic navigation and annotation of ATT&CK matrices · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:36.879586+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-045",
+      "nome": "Microsoft Sysinternals",
+      "categoria": "endpoint",
+      "tipo": "ferramentas",
+      "tags": [
+        "endpoint"
+      ],
+      "fontes": [
+        "https://learn.microsoft.com/en-us/sysinternals/"
+      ],
+      "finalidade": "Reunir utilitários de diagnóstico e investigação Windows.",
+      "aplicacao": "Consultar processos, persistência e eventos com ferramentas como Autoruns e Sysmon.",
+      "observacoes": "Ferramentas podem exigir elevação; implantação de telemetria depende da política do ambiente.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://learn.microsoft.com/en-us/sysinternals/",
+          "http": 200,
+          "url_final": "https://learn.microsoft.com/en-us/sysinternals/",
+          "titulo": "Sysinternals - Sysinternals | Microsoft Learn",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:36.583560+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-046",
+      "nome": "Velociraptor",
+      "categoria": "endpoint",
+      "tipo": "ferramenta",
+      "tags": [
+        "endpoint"
+      ],
+      "fontes": [
+        "https://docs.velociraptor.app/"
+      ],
+      "finalidade": "Coletar e investigar artefatos de endpoints.",
+      "aplicacao": "Realizar triagem e hunting com artefatos e consultas VQL.",
+      "observacoes": "Planejar acesso, escopo de coleta, impacto e retenção das evidências.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://docs.velociraptor.app/",
+          "http": 200,
+          "url_final": "https://docs.velociraptor.app/",
+          "titulo": "Velociraptor - Digging deeper!",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.151364+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-047",
+      "nome": "Hayabusa",
+      "categoria": "endpoint",
+      "tipo": "ferramenta",
+      "tags": [
+        "endpoint"
+      ],
+      "fontes": [
+        "https://github.com/Yamato-Security/hayabusa"
+      ],
+      "finalidade": "Analisar logs de eventos Windows e construir timelines.",
+      "aplicacao": "Triar EVTX e revisar resultados de detecção durante investigações.",
+      "observacoes": "Conferir regras, versão e contexto dos eventos; alertas precisam de validação.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/Yamato-Security/hayabusa",
+          "http": 200,
+          "url_final": "https://github.com/Yamato-Security/hayabusa",
+          "titulo": "GitHub - Yamato-Security/hayabusa: Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.291640+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-048",
+      "nome": "Chainsaw",
+      "categoria": "endpoint",
+      "tipo": "ferramenta",
+      "tags": [
+        "endpoint"
+      ],
+      "fontes": [
+        "https://github.com/WithSecureLabs/chainsaw"
+      ],
+      "finalidade": "Pesquisar artefatos forenses, incluindo logs Windows.",
+      "aplicacao": "Buscar padrões em EVTX e apoiar hunting com regras e mapeamentos.",
+      "observacoes": "Confirmar formato dos dados e dependências dos mapeamentos utilizados.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/WithSecureLabs/chainsaw",
+          "http": 200,
+          "url_final": "https://github.com/WithSecureOpenSource/chainsaw",
+          "titulo": "GitHub - WithSecureOpenSource/chainsaw: Rapidly Search and Hunt through Windows Forensic Artefacts · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.441761+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-049",
+      "nome": "Eric Zimmerman Tools",
+      "categoria": "endpoint",
+      "tipo": "ferramentas",
+      "tags": [
+        "endpoint"
+      ],
+      "fontes": [
+        "https://ericzimmerman.github.io/"
+      ],
+      "finalidade": "Disponibilizar utilitários de análise de artefatos Windows.",
+      "aplicacao": "Examinar registros, execução e timelines conforme o artefato disponível.",
+      "observacoes": "Preservar o original, documentar versão da ferramenta e exportações.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://ericzimmerman.github.io/",
+          "http": 200,
+          "url_final": "https://ericzimmerman.github.io/",
+          "titulo": "Home - Eric Zimmerman's Tools",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.201653+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-050",
+      "nome": "Volatility 3",
+      "categoria": "endpoint",
+      "tipo": "ferramenta",
+      "tags": [
+        "endpoint"
+      ],
+      "fontes": [
+        "https://github.com/volatilityfoundation/volatility3"
+      ],
+      "finalidade": "Analisar imagens de memória.",
+      "aplicacao": "Investigar processos e outros artefatos em uma aquisição de memória.",
+      "observacoes": "Compatibilidade e símbolos dependem da imagem; a aquisição é uma etapa separada.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/volatilityfoundation/volatility3",
+          "http": 200,
+          "url_final": "https://github.com/volatilityfoundation/volatility3",
+          "titulo": "GitHub - volatilityfoundation/volatility3: Volatility 3.0 development · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.671566+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-051",
+      "nome": "Plaso",
+      "categoria": "endpoint",
+      "tipo": "ferramenta",
+      "tags": [
+        "endpoint"
+      ],
+      "fontes": [
+        "https://plaso.readthedocs.io/"
+      ],
+      "finalidade": "Extrair e processar eventos para análise de timelines.",
+      "aplicacao": "Consolidar artefatos temporais e apoiar reconstrução de incidentes.",
+      "observacoes": "Registrar fuso horário, parsers, origem e limites das evidências.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://plaso.readthedocs.io/",
+          "http": 200,
+          "url_final": "https://plaso.readthedocs.io/en/latest/",
+          "titulo": "Welcome to the Plaso documentation — Plaso (log2timeline) 20261027 documentation",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.925863+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-052",
+      "nome": "Wireshark",
+      "categoria": "rede",
+      "tipo": "ferramenta",
+      "tags": [
+        "rede"
+      ],
+      "fontes": [
+        "https://www.wireshark.org/"
+      ],
+      "finalidade": "Capturar e analisar protocolos e pacotes de rede.",
+      "aplicacao": "Investigar sessões, DNS, HTTP e outras comunicações em PCAP.",
+      "observacoes": "Capturas podem conter dados sensíveis; o conteúdo disponível depende de criptografia e ponto de captura.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://www.wireshark.org/",
+          "http": 200,
+          "url_final": "https://www.wireshark.org/",
+          "titulo": "Wireshark • Go Deep",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.477389+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-053",
+      "nome": "Zeek",
+      "categoria": "rede",
+      "tipo": "ferramenta",
+      "tags": [
+        "rede"
+      ],
+      "fontes": [
+        "https://zeek.org/"
+      ],
+      "finalidade": "Produzir telemetria de segurança a partir do tráfego de rede.",
+      "aplicacao": "Investigar conexões e protocolos usando logs estruturados.",
+      "observacoes": "Planejar posicionamento do sensor, capacidade, perda de pacotes e retenção.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://zeek.org/",
+          "http": 200,
+          "url_final": "https://zeek.org/",
+          "titulo": "Zeek: The Open Source Network Monitor",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:38.183894+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-054",
+      "nome": "Suricata",
+      "categoria": "rede",
+      "tipo": "ferramenta",
+      "tags": [
+        "rede"
+      ],
+      "fontes": [
+        "https://suricata.io/"
+      ],
+      "finalidade": "Inspecionar tráfego e gerar eventos de segurança de rede.",
+      "aplicacao": "Correlacionar alertas e telemetria de protocolos com outros eventos.",
+      "observacoes": "Regras e modo de operação exigem tuning e dimensionamento no ambiente.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://suricata.io/",
+          "http": 200,
+          "url_final": "https://suricata.io/",
+          "titulo": "Home - Suricata",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:38.235698+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-055",
+      "nome": "Arkime",
+      "categoria": "rede",
+      "tipo": "plataforma",
+      "tags": [
+        "rede"
+      ],
+      "fontes": [
+        "https://arkime.com/"
+      ],
+      "finalidade": "Indexar sessões e apoiar pesquisa de capturas de rede.",
+      "aplicacao": "Pivotar de metadados de sessão para os pacotes disponíveis.",
+      "observacoes": "Dimensionar armazenamento e controlar acesso ao conteúdo das capturas.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://arkime.com/",
+          "http": 200,
+          "url_final": "https://arkime.com/",
+          "titulo": "Arkime",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.962370+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-056",
+      "nome": "Wazuh",
+      "categoria": "plataformas",
+      "tipo": "plataforma",
+      "tags": [
+        "plataformas"
+      ],
+      "fontes": [
+        "https://documentation.wazuh.com/"
+      ],
+      "finalidade": "Oferecer capacidades de monitoramento e análise de segurança.",
+      "aplicacao": "Avaliar coleta de eventos e casos de uso de monitoramento de endpoints.",
+      "observacoes": "Validar arquitetura, agentes, integrações e manutenção antes da adoção.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://documentation.wazuh.com/",
+          "http": 200,
+          "url_final": "https://documentation.wazuh.com/current/index.html",
+          "titulo": "Wazuh documentation",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:38.686663+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-057",
+      "nome": "Security Onion",
+      "categoria": "plataformas",
+      "tipo": "plataforma",
+      "tags": [
+        "plataformas"
+      ],
+      "fontes": [
+        "https://docs.securityonion.net/"
+      ],
+      "finalidade": "Integrar recursos de monitoramento de segurança e investigação.",
+      "aplicacao": "Avaliar uma plataforma para visibilidade e análise de rede.",
+      "observacoes": "Conferir requisitos, licenciamento dos componentes e arquitetura de implantação.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://docs.securityonion.net/",
+          "http": 200,
+          "url_final": "https://docs.securityonion.net/",
+          "titulo": "Security Onion Documentation",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:37.966173+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-058",
+      "nome": "DFIR-IRIS",
+      "categoria": "resposta",
+      "tipo": "plataforma",
+      "tags": [
+        "resposta"
+      ],
+      "fontes": [
+        "https://docs.dfir-iris.org/"
+      ],
+      "finalidade": "Organizar casos e informações de resposta a incidentes.",
+      "aplicacao": "Registrar atividades, indicadores e evidências de uma investigação.",
+      "observacoes": "Definir papéis, acesso, retenção e integração com o processo interno.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://docs.dfir-iris.org/",
+          "http": 200,
+          "url_final": "https://docs.dfir-iris.org/",
+          "titulo": "Redirecting",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:38.400317+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-059",
+      "nome": "Shuffle",
+      "categoria": "plataformas",
+      "tipo": "plataforma",
+      "tags": [
+        "plataformas"
+      ],
+      "fontes": [
+        "https://github.com/Shuffle/Shuffle"
+      ],
+      "finalidade": "Construir fluxos de automação de segurança.",
+      "aplicacao": "Automatizar enriquecimento e tarefas repetitivas com revisão de efeitos.",
+      "observacoes": "Tratar credenciais, tratamento de erros e ações de contenção conforme o processo de mudança.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/Shuffle/Shuffle",
+          "http": 200,
+          "url_final": "https://github.com/Shuffle/Shuffle",
+          "titulo": "GitHub - Shuffle/Shuffle: Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing. · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:38.375689+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-060",
+      "nome": "Palo Alto Networks — Cortex XSOAR Content",
+      "categoria": "plataformas",
+      "tipo": "integracoes_playbooks",
+      "tags": [
+        "plataformas"
+      ],
+      "fontes": [
+        "https://github.com/demisto/content"
+      ],
+      "finalidade": "Reunir integrações, scripts e playbooks para Cortex XSOAR.",
+      "aplicacao": "Pesquisar automações e dependências de pacotes antes de adaptá-los.",
+      "observacoes": "Compatibilidade com versão e produto deve ser confirmada; a presença no repositório não implica disponibilidade no tenant.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/demisto/content",
+          "http": 200,
+          "url_final": "https://github.com/demisto/content",
+          "titulo": "GitHub - demisto/content: Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated! · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:38.639257+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-061",
+      "nome": "Mandiant capa",
+      "categoria": "endpoint",
+      "tipo": "ferramenta",
+      "tags": [
+        "endpoint"
+      ],
+      "fontes": [
+        "https://github.com/mandiant/capa"
+      ],
+      "finalidade": "Identificar capacidades de programas a partir de regras.",
+      "aplicacao": "Contextualizar uma amostra em uma estação de análise de malware.",
+      "observacoes": "Resultados precisam de interpretação; empacotamento e formato podem limitar a análise.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/mandiant/capa",
+          "http": 200,
+          "url_final": "https://github.com/mandiant/capa",
+          "titulo": "GitHub - mandiant/capa: The FLARE team's open-source tool to identify capabilities in executable files. · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:38.634683+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-062",
+      "nome": "Mandiant FLOSS",
+      "categoria": "endpoint",
+      "tipo": "ferramenta",
+      "tags": [
+        "endpoint"
+      ],
+      "fontes": [
+        "https://github.com/mandiant/flare-floss"
+      ],
+      "finalidade": "Extrair strings de executáveis, incluindo formas ofuscadas suportadas.",
+      "aplicacao": "Apoiar a pesquisa de indicadores e comportamento provável de uma amostra.",
+      "observacoes": "Executar a análise em ambiente adequado e correlacionar os achados com outras evidências.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/mandiant/flare-floss",
+          "http": 200,
+          "url_final": "https://github.com/mandiant/flare-floss",
+          "titulo": "GitHub - mandiant/flare-floss: FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware. · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:38.660798+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-063",
+      "nome": "oletools",
+      "categoria": "triagem",
+      "tipo": "ferramentas",
+      "tags": [
+        "triagem"
+      ],
+      "fontes": [
+        "https://github.com/decalage2/oletools"
+      ],
+      "finalidade": "Inspecionar documentos Microsoft Office e artefatos relacionados.",
+      "aplicacao": "Analisar macros e estruturas suspeitas em documentos recebidos por email.",
+      "observacoes": "Preservar o arquivo original e usar ambiente de análise isolado.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/decalage2/oletools",
+          "http": 200,
+          "url_final": "https://github.com/decalage2/oletools",
+          "titulo": "GitHub - decalage2/oletools: oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:38.788090+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-064",
+      "nome": "Atomic Red Team",
+      "categoria": "treinamento",
+      "tipo": "simulacao",
+      "tags": [
+        "treinamento"
+      ],
+      "fontes": [
+        "https://github.com/redcanaryco/atomic-red-team"
+      ],
+      "finalidade": "Disponibilizar testes de comportamentos mapeados ao ATT&CK.",
+      "aplicacao": "Exercitar coleta de telemetria e validar hipóteses em laboratório autorizado.",
+      "observacoes": "Testes podem alterar o sistema; revisar pré-requisitos, comandos e limpeza antes de executar.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/redcanaryco/atomic-red-team",
+          "http": 200,
+          "url_final": "https://github.com/redcanaryco/atomic-red-team",
+          "titulo": "GitHub - redcanaryco/atomic-red-team: Small and highly portable detection tests based on MITRE's ATT&CK. · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:38.853656+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    },
+    {
+      "id": "SOC-065",
+      "nome": "MITRE CALDERA",
+      "categoria": "treinamento",
+      "tipo": "simulacao",
+      "tags": [
+        "treinamento"
+      ],
+      "fontes": [
+        "https://github.com/mitre/caldera"
+      ],
+      "finalidade": "Apoiar emulação de adversários e exercícios automatizados.",
+      "aplicacao": "Planejar exercícios controlados para avaliar visibilidade e resposta.",
+      "observacoes": "Usar escopo autorizado, laboratório e plano de recuperação; não executar automaticamente em produção.",
+      "origem": "complemento_editorial",
+      "acesso": "Conferir documentação e condições atuais do mantenedor.",
+      "checagem_links": [
+        {
+          "url": "https://github.com/mitre/caldera",
+          "http": 200,
+          "url_final": "https://github.com/apache/caldera",
+          "titulo": "GitHub - apache/caldera: Automated Adversary Emulation Platform · GitHub",
+          "resultado": "resposta_http_obtida",
+          "consultado_em": "2026-10-28T14:49:39.384963+00:00"
+        }
+      ],
+      "validacao_funcional": "nao_realizada"
+    }
+  ]
+}

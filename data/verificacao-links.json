@@ -1,0 +1,552 @@
+[
+  {
+    "url": "https://github.com/A-poc/BlueTeam-Tools",
+    "http": 200,
+    "url_final": "https://github.com/A-poc/BlueTeam-Tools",
+    "titulo": "GitHub - A-poc/BlueTeam-Tools: Tools and Techniques for Blue Team / Incident Response · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:32.760677+00:00"
+  },
+  {
+    "url": "https://github.com/fabacab/awesome-cybersecurity-blueteam",
+    "http": 200,
+    "url_final": "https://github.com/fabacab/awesome-cybersecurity-blueteam",
+    "titulo": "GitHub - fabacab/awesome-cybersecurity-blueteam: :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams. · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:32.686805+00:00"
+  },
+  {
+    "url": "https://github.com/cyb3rxp/awesome-soc",
+    "http": 200,
+    "url_final": "https://github.com/cyb3rxp/awesome-soc",
+    "titulo": "GitHub - cyb3rxp/awesome-soc: A curated knowledge base to build, run and mature a SOC (including CSIRT). · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:32.833516+00:00"
+  },
+  {
+    "url": "https://github.com/iw-sec/awesome-soc-tools",
+    "http": 200,
+    "url_final": "https://github.com/iw-sec/awesome-soc-tools",
+    "titulo": "GitHub - iw-sec/awesome-soc-tools: A collection of free threat intelligence and enrichment tools for SOC triage · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:32.834982+00:00"
+  },
+  {
+    "url": "https://github.com/LetsDefend/awesome-soc-analyst",
+    "http": 200,
+    "url_final": "https://github.com/LetsDefend/awesome-soc-analyst",
+    "titulo": "GitHub - LetsDefend/awesome-soc-analyst: Useful resources for SOC Analyst and SOC Analyst candidates. · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:34.294373+00:00"
+  },
+  {
+    "url": "https://github.com/st0pp3r/awesome-soc-analyst",
+    "http": 200,
+    "url_final": "https://github.com/st0pp3r/awesome-soc-analyst",
+    "titulo": "GitHub - st0pp3r/awesome-soc-analyst: Online resources related to SOC Analysts. Incident investigation reference material, blogs, newsletters, good reads, books, trainings, podcasts, Twitter/X accounts and a set of tools relevant to the role of SOC analyst. · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:32.649388+00:00"
+  },
+  {
+    "url": "https://github.com/mthcht/awesome-lists",
+    "http": 200,
+    "url_final": "https://github.com/mthcht/awesome-lists",
+    "titulo": "GitHub - mthcht/awesome-lists: Awesome Security lists for SOC/CERT/CTI · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:32.847203+00:00"
+  },
+  {
+    "url": "https://github.com/hslatman/awesome-threat-intelligence",
+    "http": 200,
+    "url_final": "https://github.com/hslatman/awesome-threat-intelligence",
+    "titulo": "GitHub - hslatman/awesome-threat-intelligence: A curated list of Awesome Threat Intelligence resources · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:32.761329+00:00"
+  },
+  {
+    "url": "https://github.com/meirwah/awesome-incident-response",
+    "http": 200,
+    "url_final": "https://github.com/meirwah/awesome-incident-response",
+    "titulo": "GitHub - meirwah/awesome-incident-response: A curated list of tools for incident response · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:32.689092+00:00"
+  },
+  {
+    "url": "https://github.com/0x4D31/awesome-threat-detection",
+    "http": 200,
+    "url_final": "https://github.com/0x4D31/awesome-threat-detection",
+    "titulo": "GitHub - 0x4D31/awesome-threat-detection: ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️ · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:32.718621+00:00"
+  },
+  {
+    "url": "https://github.com/cugu/awesome-forensics",
+    "http": 200,
+    "url_final": "https://github.com/cugu/awesome-forensics",
+    "titulo": "GitHub - cugu/awesome-forensics: ⭐️ A curated list of awesome forensic analysis tools and resources · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:33.336580+00:00"
+  },
+  {
+    "url": "https://github.com/SigmaHQ/sigma",
+    "http": 200,
+    "url_final": "https://github.com/SigmaHQ/sigma",
+    "titulo": "GitHub - SigmaHQ/sigma: Main Sigma Rule Repository · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:33.318089+00:00"
+  },
+  {
+    "url": "https://github.com/Azure/Azure-Sentinel",
+    "http": 200,
+    "url_final": "https://github.com/Azure/Azure-Sentinel",
+    "titulo": "GitHub - Azure/Azure-Sentinel: Cloud-native SIEM for intelligent security analytics for your entire enterprise. · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:33.373849+00:00"
+  },
+  {
+    "url": "https://github.com/splunk/security_content",
+    "http": 200,
+    "url_final": "https://github.com/splunk/security_content",
+    "titulo": "GitHub - splunk/security_content: Splunk Security Content · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:33.464273+00:00"
+  },
+  {
+    "url": "https://research.splunk.com/",
+    "http": 200,
+    "url_final": "https://research.splunk.com/",
+    "titulo": "Splunk Security Content",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:33.835315+00:00"
+  },
+  {
+    "url": "https://github.com/elastic/detection-rules",
+    "http": 200,
+    "url_final": "https://github.com/elastic/detection-rules",
+    "titulo": "GitHub - elastic/detection-rules · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:33.441008+00:00"
+  },
+  {
+    "url": "https://lolbas-project.github.io/",
+    "http": 200,
+    "url_final": "https://lolbas-project.github.io/",
+    "titulo": "LOLBAS",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:33.325482+00:00"
+  },
+  {
+    "url": "https://gtfobins.org/",
+    "http": 200,
+    "url_final": "https://gtfobins.org/",
+    "titulo": "GTFOBins",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:33.410509+00:00"
+  },
+  {
+    "url": "https://www.loldrivers.io/",
+    "http": 200,
+    "url_final": "https://www.loldrivers.io/",
+    "titulo": "LOLDrivers — Living Off The Land Drivers",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:33.606301+00:00"
+  },
+  {
+    "url": "https://lolrmm.io/",
+    "http": 200,
+    "url_final": "https://lolrmm.io/",
+    "titulo": "LOLRMM — Living Off the Land Remote Monitoring and Management",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:34.475331+00:00"
+  },
+  {
+    "url": "https://www.dfir.training/dfir-tools",
+    "http": 200,
+    "url_final": "https://www.dfir.training/dfir-tools",
+    "titulo": "DFIR Tools",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.122384+00:00"
+  },
+  {
+    "url": "https://toolcatalog.nist.gov/",
+    "http": 200,
+    "url_final": "https://toolcatalog.nist.gov/",
+    "titulo": "Computer Forensics Tools & Techniques Catalog - Home",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:34.479812+00:00"
+  },
+  {
+    "url": "https://osintframework.com/",
+    "http": 200,
+    "url_final": "https://osintframework.com/",
+    "titulo": "OSINT Framework",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:33.948996+00:00"
+  },
+  {
+    "url": "https://www.sans.org/posters",
+    "http": 200,
+    "url_final": "https://www.sans.org/posters",
+    "titulo": "Cybersecurity Posters and Cheat Sheets | SANS Institute",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:35.037888+00:00"
+  },
+  {
+    "url": "https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/",
+    "http": 200,
+    "url_final": "https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/",
+    "titulo": "Windows Security Log Encyclopedia",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:35.468842+00:00"
+  },
+  {
+    "url": "https://attack.mitre.org/",
+    "http": null,
+    "resultado": "revisao_manual",
+    "erro": "TimeoutError",
+    "consultado_em": "2026-10-28T14:49:52.170092+00:00"
+  },
+  {
+    "url": "https://malpedia.caad.fkie.fraunhofer.de/",
+    "http": 200,
+    "url_final": "https://malpedia.caad.fkie.fraunhofer.de/",
+    "titulo": "Malpedia (Fraunhofer FKIE)",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:36.492269+00:00"
+  },
+  {
+    "url": "https://threatfox.abuse.ch/",
+    "http": 200,
+    "url_final": "https://threatfox.abuse.ch/",
+    "titulo": "ThreatFox | Share Indicators Of Compromise (IOCs)",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:34.417789+00:00"
+  },
+  {
+    "url": "https://urlhaus.abuse.ch/",
+    "http": 200,
+    "url_final": "https://urlhaus.abuse.ch/",
+    "titulo": "URLhaus | Malware URL exchange",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:34.522683+00:00"
+  },
+  {
+    "url": "https://bazaar.abuse.ch/",
+    "http": 200,
+    "url_final": "https://bazaar.abuse.ch/",
+    "titulo": "MalwareBazaar | Malware sample exchange",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:34.864679+00:00"
+  },
+  {
+    "url": "https://thedfirreport.com/reports/",
+    "http": 200,
+    "url_final": "https://thedfirreport.com/reports/",
+    "titulo": "DFIR Report | Discover Public Cyber Threat Intelligence Report",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:34.914186+00:00"
+  },
+  {
+    "url": "https://gchq.github.io/CyberChef/",
+    "http": 200,
+    "url_final": "https://gchq.github.io/CyberChef/",
+    "titulo": "CyberChef",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:34.949053+00:00"
+  },
+  {
+    "url": "https://github.com/gchq/CyberChef",
+    "http": 200,
+    "url_final": "https://github.com/gchq/CyberChef",
+    "titulo": "GitHub - gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:35.157561+00:00"
+  },
+  {
+    "url": "https://socbrazil.com/",
+    "http": 200,
+    "url_final": "https://socbrazil.com/",
+    "titulo": "SOC Brazil | Cibersegurança, SOC e Blue Team",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:35.704050+00:00"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks",
+    "http": 200,
+    "url_final": "https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks",
+    "titulo": "Incident response playbooks | Microsoft Learn",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:35.285846+00:00"
+  },
+  {
+    "url": "https://github.com/certsocietegenerale/IRM",
+    "http": 200,
+    "url_final": "https://github.com/certsocietegenerale/IRM",
+    "titulo": "GitHub - certsocietegenerale/IRM: Incident Response Methodologies 2022 · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:35.540054+00:00"
+  },
+  {
+    "url": "https://github.com/OTRF/Security-Datasets",
+    "http": 200,
+    "url_final": "https://github.com/OTRF/Security-Datasets",
+    "titulo": "GitHub - OTRF/Security-Datasets: Re-play Security Events · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:35.559655+00:00"
+  },
+  {
+    "url": "https://www.malware-traffic-analysis.net/",
+    "http": 200,
+    "url_final": "https://www.malware-traffic-analysis.net/",
+    "titulo": "malware-traffic-analysis.net",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:36.018942+00:00"
+  },
+  {
+    "url": "https://training.dfirdiva.com/",
+    "http": 200,
+    "url_final": "https://training.dfirdiva.com/",
+    "titulo": "Free and Affordable DFIR and Cybersecurity Training",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:36.276149+00:00"
+  },
+  {
+    "url": "https://www.virustotal.com/",
+    "http": 200,
+    "url_final": "https://www.virustotal.com:443/gui/",
+    "titulo": "VirusTotal",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:35.958816+00:00"
+  },
+  {
+    "url": "https://urlscan.io/",
+    "http": 200,
+    "url_final": "https://urlscan.io/",
+    "titulo": "URL and website scanner - urlscan.io",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:51.888640+00:00"
+  },
+  {
+    "url": "https://mxtoolbox.com/EmailHeaders.aspx",
+    "http": 200,
+    "url_final": "https://mxtoolbox.com/EmailHeaders.aspx",
+    "titulo": "Email Header Analyzer, RFC822 Parser - MxToolbox",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:35.889123+00:00"
+  },
+  {
+    "url": "https://www.misp-project.org/",
+    "http": 200,
+    "url_final": "https://www.misp-project.org/",
+    "titulo": "MISP Open Source Threat Intelligence Platform & Open Standards For Threat Intelligence Sharing",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.096286+00:00"
+  },
+  {
+    "url": "https://docs.opencti.io/",
+    "http": 200,
+    "url_final": "https://docs.opencti.io/",
+    "titulo": "Redirecting",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:36.643971+00:00"
+  },
+  {
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+    "http": 403,
+    "resultado": "revisao_manual",
+    "erro": "HTTPError",
+    "consultado_em": "2026-10-28T14:49:36.270591+00:00"
+  },
+  {
+    "url": "https://www.first.org/epss/",
+    "http": 200,
+    "url_final": "https://www.first.org/epss/",
+    "titulo": "Exploit Prediction Scoring System (EPSS)",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.011518+00:00"
+  },
+  {
+    "url": "https://github.com/VirusTotal/yara",
+    "http": 200,
+    "url_final": "https://github.com/VirusTotal/yara",
+    "titulo": "GitHub - VirusTotal/yara: The pattern matching swiss knife · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:36.594822+00:00"
+  },
+  {
+    "url": "https://github.com/mitre-attack/attack-navigator",
+    "http": 200,
+    "url_final": "https://github.com/mitre-attack/attack-navigator",
+    "titulo": "GitHub - mitre-attack/attack-navigator: Web app that provides basic navigation and annotation of ATT&CK matrices · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:36.879586+00:00"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/sysinternals/",
+    "http": 200,
+    "url_final": "https://learn.microsoft.com/en-us/sysinternals/",
+    "titulo": "Sysinternals - Sysinternals | Microsoft Learn",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:36.583560+00:00"
+  },
+  {
+    "url": "https://docs.velociraptor.app/",
+    "http": 200,
+    "url_final": "https://docs.velociraptor.app/",
+    "titulo": "Velociraptor - Digging deeper!",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.151364+00:00"
+  },
+  {
+    "url": "https://github.com/Yamato-Security/hayabusa",
+    "http": 200,
+    "url_final": "https://github.com/Yamato-Security/hayabusa",
+    "titulo": "GitHub - Yamato-Security/hayabusa: Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.291640+00:00"
+  },
+  {
+    "url": "https://github.com/WithSecureLabs/chainsaw",
+    "http": 200,
+    "url_final": "https://github.com/WithSecureOpenSource/chainsaw",
+    "titulo": "GitHub - WithSecureOpenSource/chainsaw: Rapidly Search and Hunt through Windows Forensic Artefacts · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.441761+00:00"
+  },
+  {
+    "url": "https://ericzimmerman.github.io/",
+    "http": 200,
+    "url_final": "https://ericzimmerman.github.io/",
+    "titulo": "Home - Eric Zimmerman's Tools",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.201653+00:00"
+  },
+  {
+    "url": "https://github.com/volatilityfoundation/volatility3",
+    "http": 200,
+    "url_final": "https://github.com/volatilityfoundation/volatility3",
+    "titulo": "GitHub - volatilityfoundation/volatility3: Volatility 3.0 development · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.671566+00:00"
+  },
+  {
+    "url": "https://plaso.readthedocs.io/",
+    "http": 200,
+    "url_final": "https://plaso.readthedocs.io/en/latest/",
+    "titulo": "Welcome to the Plaso documentation — Plaso (log2timeline) 20261027 documentation",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.925863+00:00"
+  },
+  {
+    "url": "https://www.wireshark.org/",
+    "http": 200,
+    "url_final": "https://www.wireshark.org/",
+    "titulo": "Wireshark • Go Deep",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.477389+00:00"
+  },
+  {
+    "url": "https://zeek.org/",
+    "http": 200,
+    "url_final": "https://zeek.org/",
+    "titulo": "Zeek: The Open Source Network Monitor",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:38.183894+00:00"
+  },
+  {
+    "url": "https://suricata.io/",
+    "http": 200,
+    "url_final": "https://suricata.io/",
+    "titulo": "Home - Suricata",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:38.235698+00:00"
+  },
+  {
+    "url": "https://arkime.com/",
+    "http": 200,
+    "url_final": "https://arkime.com/",
+    "titulo": "Arkime",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.962370+00:00"
+  },
+  {
+    "url": "https://documentation.wazuh.com/",
+    "http": 200,
+    "url_final": "https://documentation.wazuh.com/current/index.html",
+    "titulo": "Wazuh documentation",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:38.686663+00:00"
+  },
+  {
+    "url": "https://docs.securityonion.net/",
+    "http": 200,
+    "url_final": "https://docs.securityonion.net/",
+    "titulo": "Security Onion Documentation",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:37.966173+00:00"
+  },
+  {
+    "url": "https://docs.dfir-iris.org/",
+    "http": 200,
+    "url_final": "https://docs.dfir-iris.org/",
+    "titulo": "Redirecting",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:38.400317+00:00"
+  },
+  {
+    "url": "https://github.com/Shuffle/Shuffle",
+    "http": 200,
+    "url_final": "https://github.com/Shuffle/Shuffle",
+    "titulo": "GitHub - Shuffle/Shuffle: Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing. · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:38.375689+00:00"
+  },
+  {
+    "url": "https://github.com/demisto/content",
+    "http": 200,
+    "url_final": "https://github.com/demisto/content",
+    "titulo": "GitHub - demisto/content: Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated! · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:38.639257+00:00"
+  },
+  {
+    "url": "https://github.com/mandiant/capa",
+    "http": 200,
+    "url_final": "https://github.com/mandiant/capa",
+    "titulo": "GitHub - mandiant/capa: The FLARE team's open-source tool to identify capabilities in executable files. · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:38.634683+00:00"
+  },
+  {
+    "url": "https://github.com/mandiant/flare-floss",
+    "http": 200,
+    "url_final": "https://github.com/mandiant/flare-floss",
+    "titulo": "GitHub - mandiant/flare-floss: FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware. · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:38.660798+00:00"
+  },
+  {
+    "url": "https://github.com/decalage2/oletools",
+    "http": 200,
+    "url_final": "https://github.com/decalage2/oletools",
+    "titulo": "GitHub - decalage2/oletools: oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:38.788090+00:00"
+  },
+  {
+    "url": "https://github.com/redcanaryco/atomic-red-team",
+    "http": 200,
+    "url_final": "https://github.com/redcanaryco/atomic-red-team",
+    "titulo": "GitHub - redcanaryco/atomic-red-team: Small and highly portable detection tests based on MITRE's ATT&CK. · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:38.853656+00:00"
+  },
+  {
+    "url": "https://github.com/mitre/caldera",
+    "http": 200,
+    "url_final": "https://github.com/apache/caldera",
+    "titulo": "GitHub - apache/caldera: Automated Adversary Emulation Platform · GitHub",
+    "resultado": "resposta_http_obtida",
+    "consultado_em": "2026-10-28T14:49:39.384963+00:00"
+  }
+]
